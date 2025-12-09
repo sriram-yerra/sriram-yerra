@@ -46,30 +46,28 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech I Work With
 
-#### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
+**Programming**  
+[![Python](https://img.shields.io/badge/Python-Major-3776AB?logo=python&logoColor=white)](https://github.com/sriram-yerra/Python)
+[![Java](https://img.shields.io/badge/Java-Minor-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
 
-#### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
+**AI / Machine Learning & Computer Vision**  
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0096FF)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
 
-#### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+**Databases**  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)](https://www.mongodb.com/)
 
-#### Backend & Tools
-![Django](https://img.shields.io/badge/Django-092E20?logo=django)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+**Tools & Environment**  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+
 
 ---
 
