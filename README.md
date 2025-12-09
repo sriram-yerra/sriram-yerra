@@ -26,7 +26,7 @@
 
 ### Important Repositories for Concept Storage:
 - DeepLearning(DL) (provide direct links for the Respective Repo as the naming as repo name) : **Some Basics for DL** 
-- [Python](https://github.com/sriram-yerra/Python)
+- [Python](https://github.com/sriram-yerra/Python) : All Concepts of python
 - Neural Networks From Scratch : **From Scratches of Mathematics**
   
 ---
