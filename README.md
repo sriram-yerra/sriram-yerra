@@ -24,26 +24,25 @@
 
 ---
 
-### Important Repositories for Concept Storage:
-(Status)
-- [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL
-- [Python](https://github.com/sriram-yerra/Python) : All Concepts of python
-- [Neural Networks From Scratch](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics
+## Important Repositories
+### Notes for Concept Building:
+- [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL.
+- [Python(Core Concepts)](https://github.com/sriram-yerra/Python) : All Concepts of python.
+- [Neural Networks From Scratch (ANN)](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics.
+- [ML Algorithms Implementation](https://github.com/sriram-yerra/ML-Models) : Classes and Functions in ML Algorithms.
   
 ---
 
-### Practice Projects:
-(Status)
-- []() : Note 
-- []() : Note
-- []() : Note
+### Status of Practice Projects:
+- [Parking space Tracking (OpenCV)](https://github.com/sriram-yerra/Live-Tracking-of-Parking-Space-using-ComputerVision-) : Done 
+- [Invoice Data Extraction (OCR)](https://github.com/sriram-yerra/Automatic-Invoice-Data-Extraction) : Researched (In progress)
 
 ---
 
-### Personal Projects:
-- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : Note
-- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : Note
-- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Note
+### Status of Personal Projects:
+- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : In Progress
+- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : In Progress
+- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Done
 
 ---
 
