@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center">AI / ML Engineer • Data Science Enthusiast • Full-Stack Learner</h3>
+<h3 align="center"> AI / ML Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sriram-yerra-44a345220/" target="_blank">
@@ -24,7 +24,10 @@
 
 ---
 
-## Important Repositories
+<h2 align="center">Important Repositories</h2>
+
+---
+
 ### Notes for Concept Building:
 - [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL.
 - [Python(Core Concepts)](https://github.com/sriram-yerra/Python) : All Concepts of python.
@@ -72,3 +75,5 @@
 ---
 
 ⭐ *If you like my work, consider starring some repositories!*
+
+---
