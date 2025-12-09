@@ -1,124 +1,54 @@
-<p align="center">
-  <img src="<p align="center">
-  <img src="https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251" >
+<h1 align="center">Hi 👋, I'm Sriram</h1>
+<h3 align="center">AI / ML Engineer • Data Science Enthusiast • Full-Stack Learner</h3>
 
-
-<h1 align="center">Hi there! 👋 I'm Sriram</h1>
-<h3 align="center">Data Science Enthusiast | Frontend Developer | Open Source Contributor</h3>
 <p align="center">
-  <a href="https://twitter.com/sriram__yerra" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/sriram__yerra?logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
   <a href="https://www.linkedin.com/in/sriram-yerra-44a345220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat"/>
   </a>
-  <a href="mailto:yerrasriram.197056@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail Contact">
+  <a href="mailto:yerrasriram.197056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat"/>
+  </a>
+  <a href="https://twitter.com/sriram__yerra" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=flat"/>
   </a>
 </p>
 
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriram-yerra" alt="sriram-yerra" /></a> </p>
+### 🚀 About Me
+- 🔭 Currently working on **Machine Learning & Computer Vision projects**
+- 🌱 Learning **Deep Learning, TensorFlow, and React**
+- 💬 Ask me about **ML, Data Science, APIs, and Python**
+- 📫 Reach me at **yerrasriram.197056@gmail.com**
+- ⚡ Fun fact: *Astronauts grow taller in space*
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
+### 🛠️ Tech Stack
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=sriram-yerra&label=Profile%20views&color=0e75b6&style=flat" alt="sriram-yerra" />
-</p>
+#### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus)
 
+#### Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
 
-- 🔭 I’m currently working on *Random Forest ML Model*
+#### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 
-- 🌱 I’m currently learning *Tensor Flow, Deep Learning and React JS*
+#### Backend & Tools
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-- 💬 Ask me about *Machine Learning, Data Analytics*
+---
 
-- 📫 How to reach me *yerrasriram.197056@gmail.com*
-
-- ⚡ Fun fact *Astronauts grow taller in space!*
-
-<h2 align="left">Connect with me:</h2>
-<div style="text-align: center;">
-  <a href="https://twitter.com/sriram_yerra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30"></a>
-  <a href="https://www.instagram.com/your_username_here/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="Instagram" height="30" width="30"></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/sriram-yerra-44a345220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"></a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100070019424323&mibextid=zbwkwl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30"></a>
-  <a href="https://medium.com/@sriram_yerra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30"></a>
-  <a href="https://www.codechef.com/users/https://www.codechef.com/users/sriram_3340" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="30"></a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sriram_yerra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="30"></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/yerra_sriram/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="30"></a>
-</div>
-
-
-<h2 align="left">Languages and Tools:</h2>
-<h3>Programming Languages</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
-
-<h3>Frontend Development</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
-
-<h3>AI/ML</h3>
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-</p>
-
-<h3>Database</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
-
-<h3>DevOps</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
-
-<h3>Framework</h3>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-</p>
-
-<h3>Software</h3>
-<p align="left">
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-</p>
-
-<h3>Other</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
-
-<p align="right">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriram-yerra&show_icons=true&locale=en&layout=compact" alt="sriram-yerra" style="width: 48%;" />
-</p>
-
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sriram-yerra&show_icons=true&locale=en" alt="sriram-yerra" style="width: 48%;" />
-</p>
-
-<p align="center">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sriram-yerra&" alt="sriram-yerra" style="width: 48%;"  />
-</p>
-
-
-
-
-
-
-
+⭐ *If you like my work, consider starring some repositories!*
