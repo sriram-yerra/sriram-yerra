@@ -25,13 +25,15 @@
 ---
 
 ### Important Repositories for Concept Storage:
+(Status)
 - [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL
-- [Python](https://github.com/sriram-yerra/Python)                 : All Concepts of python
+- [Python](https://github.com/sriram-yerra/Python) : All Concepts of python
 - [Neural Networks From Scratch](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics
   
 ---
 
 ### Practice Projects:
+(Status)
 - []() : Note 
 - []() : Note
 - []() : Note
