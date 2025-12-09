@@ -26,22 +26,22 @@
 
 ### Important Repositories for Concept Storage:
 - [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL
-- [Python](https://github.com/sriram-yerra/Python) : **All Concepts of python**
-- [Neural Networks From Scratch](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : **From Scratches of Mathematics**
+- [Python](https://github.com/sriram-yerra/Python)                 : All Concepts of python
+- [Neural Networks From Scratch](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics
   
 ---
 
 ### Practice Projects:
-- []() : **Note** 
-- []() : **Note**
-- []() : **Note**
+- []() : Note 
+- []() : Note
+- []() : Note
 
 ---
 
 ### Personal Projects:
-- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : **Note** 
-- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : **Note**
-- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : **Note**
+- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : Note
+- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : Note
+- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Note
 
 ---
 
