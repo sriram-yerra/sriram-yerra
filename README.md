@@ -25,19 +25,23 @@
 ---
 
 ### Important Repositories for Concept Storage:
-- DeepLearning(DL) (provide direct links for the Respective Repo as the naming as repo name) : **Some Basics for DL** 
-- [Python](https://github.com/sriram-yerra/Python) : All Concepts of python
-- Neural Networks From Scratch : **From Scratches of Mathematics**
+- [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : **Some Basics for DL** 
+- [Python](https://github.com/sriram-yerra/Python) : **All Concepts of python**
+- [Neural Networks From Scratch](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : **From Scratches of Mathematics**
   
 ---
 
 ### Practice Projects:
-- 
+- []() : **Note** 
+- []() : **Note**
+- []() : **Note**
 
 ---
 
 ### Personal Projects:
-- 
+- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : **Note** 
+- []() : **Note**
+- []() : **Note**
 
 ---
 
