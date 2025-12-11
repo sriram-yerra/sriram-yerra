@@ -37,6 +37,7 @@
 ---
 
 ### Status of Practice Projects:
+- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Done
 - [Parking space Tracking (OpenCV)](https://github.com/sriram-yerra/Live-Tracking-of-Parking-Space-using-ComputerVision-) : Done 
 - [Invoice Data Extraction (OCR)](https://github.com/sriram-yerra/Automatic-Invoice-Data-Extraction) : Researched (In progress)
 
@@ -45,7 +46,6 @@
 ### Status of Personal Projects:
 - [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : In Progress
 - [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : In Progress
-- [Hand Written Digits Classification (MNIST)](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Done
 
 ---
 
