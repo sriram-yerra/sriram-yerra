@@ -16,11 +16,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Machine Learning & Computer Vision projects**
-- 🌱 Learning **Deep Learning, TensorFlow, and React**
-- 💬 Ask me about **ML, Data Science, APIs, and Python**
+- 🔭 Machine Learning Engineer working on **real-time Computer Vision systems** for intelligent infrastructure  
+- 🧠 Focused on **ANPR, object detection, OCR pipelines, and edge AI optimization**  
+- ⚙️ Building **production ML systems** with Python, FastAPI, and performance tuning  
+- 🌱 Exploring **NLP and advanced deep learning architectures**  
+- 💬 Ask me about **Computer Vision, ML systems, APIs, and Python**  
 - 📫 Reach me at **yerrasriram.197056@gmail.com**
-- ⚡ Fun fact: *Astronauts grow taller in space*
 
 ---
 
