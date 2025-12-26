@@ -29,11 +29,13 @@
 
 ---
 
-### Notes for Concept Building:
-- [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL.
+### My Learnings:
 - [Python(Core Concepts)](https://github.com/sriram-yerra/Python) : All Concepts of python.
-- [Neural Networks From Scratch (ANN)](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics.
 - [ML Algorithms Implementation](https://github.com/sriram-yerra/ML-Models) : Classes and Functions in ML Algorithms.
+- [DeepLearning(DL)](https://github.com/sriram-yerra/DeepLearning) : Some Basics for DL.
+- [Neural Networks From Scratch (ANN)](https://github.com/sriram-yerra/Neural-Networks-from-Scratch) : From Scratches of Mathematics.
+- [NLP - RNN - LSTM - GRU](.) : Notes and Implementaion of NLP Basics.
+- [Transformers](.) : Concepts of Transformers and Implementation.
   
 ---
 
