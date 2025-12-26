@@ -39,16 +39,12 @@
   
 ---
 
-### Status of Practice Projects:
-- [Convolutional NN Projects](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : Done
-- [Parking space Tracking (OpenCV)](https://github.com/sriram-yerra/Live-Tracking-of-Parking-Space-using-ComputerVision-) : Done 
-- [Invoice Data Extraction (OCR)](https://github.com/sriram-yerra/Automatic-Invoice-Data-Extraction) : Researched (In progress)
-
----
-
-### Status of Personal Projects:
-- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : In Progress
-- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : In Progress
+### Status of Practice Projects and Personal Projects:
+- [Convolutional NN Projects](https://github.com/sriram-yerra/Handwritten-Digits-Classification-Using-Neural-Network) : PrP Done
+- [Parking space Tracking (OpenCV)](https://github.com/sriram-yerra/Live-Tracking-of-Parking-Space-using-ComputerVision-) : PrP Done 
+- [Invoice Data Extraction and Summarization (OCR)](https://github.com/sriram-yerra/Automatic-Invoice-Data-Extraction) : Pep Researched (In progress)
+- [Applicant Tracking System (NLP)](https://github.com/sriram-yerra/Applicant-Tracking-System-using-NLP) : PeP In Progress 
+- [Face Recognition using YOLOv11 (Computer Vision)](https://github.com/sriram-yerra/Face-Recognition-using-Computer-Vision) : PeP In Progress
 
 ---
 
