@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sriram</h1>
-<h3 align="center"> AI / ML Engineer </h3>
+<h1 align="center">Hello allies! 👋 I’m Sriram on GitHub.</h1>
+<h3 align="center"> AI / ML Engineer (COMPUTER VISION) </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sriram-yerra-44a345220/" target="_blank">
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">Important Repositories</h2>
+<h2 align="center">My Repository Index</h2>
 
 ---
 
