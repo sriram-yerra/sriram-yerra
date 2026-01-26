@@ -73,6 +73,6 @@
 
 ---
 
-<h3 align="center">⭐ *If you like my work, consider starring some repositories!* ⭐</h3>
+<!-- <h3 align="center">⭐ *If you like my work, consider starring some repositories!* ⭐</h3> -->
 
 ---
